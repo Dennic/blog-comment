@@ -1,6 +1,6 @@
 ## [Dennic's Blog][blog]
 
->*此仓库用作我的个人博客评论系统使用。
+>*此仓库仅用作创建我的个人博客评论系统。
 
 **[Giscus][giscus]** 是由 [GitHub Discussions][discussions] 驱动的评论系统，用户在我的博客中发表评论时将自动在此仓库中创建一个对应的 discussion。
 
